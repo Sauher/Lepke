@@ -1,0 +1,30 @@
+body{
+    background-color:white;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+table{
+    width: 640px;
+    background-color: darkslategray;
+    margin: 0 auto;
+    text-align: left;
+}
+td{
+    margin: 5px;
+    padding: 5px;
+}
+img{
+    border: 1px solid black;
+}
+a{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:active{
+    color: white;
+}

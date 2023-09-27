@@ -1,0 +1,25 @@
+body{
+    background-color: darkslategrey;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+table{
+    width: 640px;
+    background-image: url(hatter.jpg);
+    margin: 0 auto;
+    text-align: left;
+}
+td{
+    padding: 5px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:active{
+    color: black;
+}

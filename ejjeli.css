@@ -10,7 +10,6 @@ table{
     width: 640px;
     background-color: darkslategray;
     margin: 0 auto;
-    text-align: left;
 }
 td{
     margin: 5px;
@@ -18,6 +17,8 @@ td{
 }
 img{
     border: 1px solid black;
+    display: block;
+    float: left;
 }
 a{
     color: white;
